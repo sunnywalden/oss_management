@@ -1,0 +1,11 @@
+.aliOss/tmp_files
+.downloads
+.env
+.fonts
+.logs
+.qiniu_downloads
+.tmp_files
+.idea
+
+.qiniuOss/.qiniu_pythonsdk_hostscache.json
+.conf/
